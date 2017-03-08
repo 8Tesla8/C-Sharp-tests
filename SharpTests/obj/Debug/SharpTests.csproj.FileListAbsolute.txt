@@ -1,0 +1,5 @@
+E:\ProjectsVS\SharpTests\SharpTests\bin\Debug\SharpTests.exe.config
+E:\ProjectsVS\SharpTests\SharpTests\bin\Debug\SharpTests.exe
+E:\ProjectsVS\SharpTests\SharpTests\bin\Debug\SharpTests.pdb
+E:\ProjectsVS\SharpTests\SharpTests\obj\Debug\SharpTests.exe
+E:\ProjectsVS\SharpTests\SharpTests\obj\Debug\SharpTests.pdb
